@@ -1,10 +1,18 @@
 
-i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(“ı³Ø8–º·ßæ.
-c
-java:S1858"F"getParameter" returns a string, there's no need to call "toString()".(ŒÄÕÂ8Óˆºì.
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(”û 8¡õ¾Àç0
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(“ı³Ø8¡õ¾Àç0
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(ÆÎ’úÿÿÿÿ8¡õ¾Àç0
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(Œ˜ú‚ıÿÿÿÿ8¡õ¾Àç0
 V
-java:S3400$"9Remove this method and declare a constant for this value.(Ô‚éß8Óˆºì.
-[
-java:S3400"9Remove this method and declare a constant for this value.(àĞ©Æùÿÿÿÿ8Óˆºì.
+java:S34006"9Remove this method and declare a constant for this value.(Ô‚éß8¡õ¾Àç0
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(Õ“³§8¡õ¾Àç0
+Z
+java:S1128"=Remove this unused import 'org.tinystruct.system.Dispatcher'.(Ù™Ñü8¡õ¾Àç0
+e
+java:S1192#"HDefine a constant instead of duplicating this literal "--words" 3 times.(«Åğò8¡õ¾Àç0
 T
-java:S1135	"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8–º·ßæ.
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¡õ¾Àç0
+[
+java:S3400"9Remove this method and declare a constant for this value.(àĞ©Æùÿÿÿÿ8¡õ¾Àç0
+i
+java:S1192"GDefine a constant instead of duplicating this literal "praise" 3 times.(¬À•ãıÿÿÿÿ8¡õ¾Àç0
